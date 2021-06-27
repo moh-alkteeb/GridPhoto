@@ -36,12 +36,9 @@ function About() {
           </div>
 
           <div className="text-center mt-4">
-            <a
-              className="btn btn-xl btn-outline-light"
-              href="https://startbootstrap.com/themes/freelancer/"
-            >
+            <a className="btn btn-xl btn-outline-light" href="/">
               <i className="fas fa-download mr-2"></i>
-              Free Download!
+              Download My CV!
             </a>
           </div>
         </div>
