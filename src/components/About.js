@@ -19,17 +19,18 @@ function About() {
           <div className="row">
             <div className="col-lg-4 ml-auto">
               <p className="lead">
-                Freelancer is a free bootstrap theme created by Start Bootstrap.
-                The download includes the complete source files including HTML,
-                CSS, and JavaScript as well as optional SASS stylesheets for
-                easy customization.
+                I'm a software developer with bachelor degree in Computer and
+                Control Engineering. I have experience in web as well as desktop
+                application development. I'm specialized in .Net (Framework &
+                Core) technologies like ASP.Net MVC, WinForms and WPF
               </p>
             </div>
             <div className="col-lg-4 mr-auto">
               <p className="lead">
-                You can create your own custom avatar for the masthead, change
-                the icon in the dividers, and add your email address to the
-                contact form to make it fully functional!
+                also I have experience with front-end technologies like JS,
+                JQuery, HTML and CSS. I have worked on several successful
+                projects and I believe that I have what it takes to explore new
+                challenges and thrive in the IT market.
               </p>
             </div>
           </div>
